@@ -1,2 +1,2 @@
-# Python_exercicios
- Pasta para guaradar exercícios de programação utilizando a linguagem Python
+# Exercicios_Python
+ Pasta para guardar exercícios de programação utilizando a linguagem Python.
